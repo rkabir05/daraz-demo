@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bg-color-nav {
+    background-color: #f57224;
+}
+
+.seach-button {
+    border-color: aliceblue;
+}
