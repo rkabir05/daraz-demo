@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+.navbar-color,
 .bg-color-nav {
     background-color: #f57224;
 }
@@ -11,3 +12,20 @@
 .seach-button {
     border-color: aliceblue;
 }
+
+.nav-font-color>li>a {
+    color: black !important;
+}
+
+.text-font-size {
+    font-size: 9px;
+} 
+
+.footer-heading-size {
+    font-size: 14px;
+} 
+
+.footer-heading-small-size {
+    font-size: 12px;
+} 
+
