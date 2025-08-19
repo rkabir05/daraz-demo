@@ -21,6 +21,7 @@
     font-size: 9px;
 } 
 
+.app-font-size,
 .footer-heading-size {
     font-size: 14px;
 } 
@@ -28,4 +29,23 @@
 .footer-heading-small-size {
     font-size: 12px;
 } 
+
+.bg-color-g {
+    background-color: lemonchiffon;
+}
+
+/* .bg-color-gri {
+    background-color: linear-gradient(nulldeg,rgba(204, 205, 217, 1) 0%, rgba(252, 70, 107, 1) 100%) !important;
+} */
+
+.bg-color-gri {
+    background-image: url(images/background-image.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow: hidden;
+    width: 100%;
+    height: 158px;
+}
+
+
 
